@@ -1,0 +1,93 @@
+body{
+	font-family: arial;
+	line-height:1.6;
+	background-color: #FFDAB9;
+}
+	
+.container{
+	margin:0 auto;
+	width:960px;
+}
+
+
+.place{    
+	border: 1px solid #FF0031;
+	margin-bottom: 20px;
+	padding: 10px;
+	background-color: #FF004821;
+	font-size: 16px;
+}
+
+h2{ 
+	color: #FF0C4F;
+	text-decoration: narrower;
+	text-decoration: bold;
+	font-family: Reem Kufi;
+	
+}
+
+h1{
+	color: #EF0D3C;
+	text-decoration: bold;
+	font-family: Reem Kufi;
+}
+
+.place img{
+	border: 1px dashed #FF003145;
+	float: left;
+	margin: 10px 10px 0 0;
+	padding:2px;
+	width: 200px
+}
+
+.footer {
+font-size: 12px;
+text-align: center;
+color: #FF0031;
+}
+
+
+.sidenote h3 {
+margin-top: 0;
+color: #FF0C4FFF;
+font-family: Reem Kufi;
+font-size: 17px;
+}
+
+.sidenote ol {
+font-size: 12px;
+}
+
+.places {
+float: left;
+width: 660px;
+}
+
+.sidenote {
+background-color: #FF004821;
+border: 1px dashed #FF0031;
+float: right;
+padding: 10px;
+width: 260px;
+margin-bottom: 10px;
+}
+
+.clear {
+clear: both;
+}
+
+.place h2 {
+border-bottom: 1px dashed #FF003145;
+margin: 0;
+}
+
+h1:hover {
+background-color: #FFEBCD;
+color: #FF5C33;
+}
+
+.sidenote img{
+	margin: 5px 5px 0 0;
+	width: 120px;
+	border: 1px dashed #FF003145;
+}
